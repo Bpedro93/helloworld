@@ -13,7 +13,7 @@
   <artifactId>welcome</artifactId>
   <packaging>war</packaging>
   <name>welcome</name>
-  <description>wecome.</description>
+  <description>welcome.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
