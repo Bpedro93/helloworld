@@ -12,8 +12,13 @@
 
   <artifactId>welcome</artifactId>
   <packaging>war</packaging>
+<<<<<<< HEAD
   <name>welcome</name>
   <description>welcome.</description>
+=======
+  <name>webapp</name>
+  <description>webapp.</description>
+>>>>>>> 22dc8f86948cdd4ec5467752c670570781374014
 
   <build>
     <finalName>${project.artifactId}</finalName>
